@@ -5,8 +5,8 @@
 [![sooomni's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sooomni&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sooomni)
 
 #### Online Judge 💻
-* BOJ: [sooom](http://icpc.me/sooom)
-  * solvedac: [sooom](https://www.acmicpc.net/user/sooom)
+* BOJ: [sooom](https://www.acmicpc.net/user/sooom)
+  * solvedac: [sooom](https://solved.ac/profile/sooom/solved)
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sooom)](https://solved.ac/sooom)
 
