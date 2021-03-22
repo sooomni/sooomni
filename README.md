@@ -3,7 +3,7 @@
 #### Profile 🏅
 * <b>IBM</b> Application Developer (2020.08 ~)
 * Samsung SW Youth Academy (2020.01 - 2020.06)
-* <b>AhnLab</b> QA Trainee (2017-08 - 2018-02)
+* <b>AhnLab</b> QA Trainee (2017.08 - 2018.02)
 * IT Media Engineering B.E (2015.02 - 2020.02)
 
 #### Skills 🛠
