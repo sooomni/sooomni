@@ -1,28 +1,28 @@
 # sooomni&nbsp;💖 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooomni%2Fhit-counter&count_bg=%23FDCB0E&title_bg=%23555555&icon=apachespark.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-#### Profile 🏅
+### Profile 🏅
 * <b>IBM</b> Application Developer (2020.08 ~)
 * Samsung SW Youth Academy (2020.01 - 2020.06)
 * <b>AhnLab</b> QA Trainee (2017.08 - 2018.02)
 * IT Media Engineering B.E (2015.02 - 2020.02)
 
-#### Skills 🛠
-##### Backend
-* Java, C++, Node.js
-* Spring Boot, Spring MVC, Spring Batch, Spring Data JPA
-* Eclipse, IntelliJ
-* Gradle
-* Git, SVN
+### Skills 🛠
+#### Backend
+* ```Java```, ```C++```, ```Node.js```
+* ```Spring Boot```, ```Spring MVC```, ```Spring Batch```, ```Spring Data JPA```
+* ```Eclipse```, ```IntelliJ```
+* ```Gradle```
+* ```Git```, ```SVN```
 
 ##### DevOps
-* Oracle, MySQL
-* Jenkins
-* Tomcat
-* Jennifer, Maxgauge
+* ```Oracle```, ```MySQL```
+* ```Jenkins```
+* ```Tomcat```
+* ```Jennifer```, ```Maxgauge```
 
 ##### Others
-* Slack
-* UiPath
+* ```Slack```
+* ```UiPath```
 
 
 #### Github stats 🚀
