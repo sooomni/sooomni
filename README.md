@@ -6,6 +6,14 @@
   
 </h1> 
 
+<h3 align="center"> 🍒 About Me </h3>
+<p align="center">
+  <a href="https://www.notion.so/sooomni/4fecedbcf8da4470aafdbc5ae2356dee">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  </a>
+</p>
+
+
 <h3 align="center"> 🏅 Profile </h3>
 <p align="center"> <b>IBM</b> Application Developer (2020.08 ~ )</p> 
 <p align="center"> Samsung SW Youth Academy (2020.01 - 2020.06) </p>
